@@ -6,6 +6,8 @@
   height: 40vmin;
 }
 
+.ListContainer {}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -19,4 +21,12 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+.card-details {
+  text-align: left;
+}
+
+.deleteIconName {
+  color: grey;
 }
